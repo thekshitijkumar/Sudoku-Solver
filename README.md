@@ -1,2 +1,2 @@
 # Sudoku-Solver
-Solving Sudoku using Backtracking
+Solving Sudoku using Backtracking Algorithm in C++
